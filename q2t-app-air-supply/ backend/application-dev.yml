@@ -1,1 +1,6 @@
+app:
+  name: Q2T Air Supply
+  env: DEV
 
+server:
+  test-message: Config Server Working Fine
