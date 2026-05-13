@@ -1,5 +1,5 @@
 app:
-  name: Q2T Air Supply
+  name: Q2T Air Supply,backend,dev
 
 server:
   test-message: Config Server Working Fine
