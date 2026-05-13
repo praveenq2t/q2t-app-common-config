@@ -48,7 +48,7 @@ aws:
     prefix: q2t
 
 server:
-  port: ${SERVER_PORT:7878}
+  port: ${SERVER_PORT:7800}
   servlet:
     context-path:
   compression:
