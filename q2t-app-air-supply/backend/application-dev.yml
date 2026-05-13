@@ -1,5 +1,7 @@
 app:
-  name: Q2T Air Supply,backend,dev
+  test-message: "Config server se value aa rahi hai"
+  airline-code: "AI"
 
-server:
-  test-message: Config Server Working Fine
+amadeus:
+  base-url: "https://test.api.amadeus.com"
+  timeout: 30000
