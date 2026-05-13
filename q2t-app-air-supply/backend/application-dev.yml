@@ -1,7 +1,1 @@
-app:
-  test-message: "Config server se value aa rahi hai"
-  airline-code: "AI"
 
-amadeus:
-  base-url: "https://test.api.amadeus.com"
-  timeout: 30000
